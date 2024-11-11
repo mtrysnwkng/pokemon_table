@@ -4,6 +4,7 @@ import { useQuery } from "react-query";
 import PokeDetails from "./PokeDetails";
 
 const border = "border-2 pl-2 bg-slate-400 font-bold";
+
 const borderstyle = "border-2 px-2";
 
 const fetchPokeList = async () => {
